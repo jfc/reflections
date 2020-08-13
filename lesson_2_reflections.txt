@@ -8,3 +8,9 @@ repository? What value do you think it offers?
    Allows you to control commit content more finely. Allows you to make
    changes more freely before committing.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+   Make changes in working directory. When one logical change is complete,
+   stage it and commit it.
+
