@@ -14,3 +14,23 @@ change?
    Make changes in working directory. When one logical change is complete,
    stage it and commit it.
 
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+   Experiments.
+
+How do the diagrams help you visualize the branch structure?
+
+   They just do.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+   Changes from both branches are merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+   Pro: saves a lot of time
+   Con: little con, since auto merging reverts to manual in case of confict
+
